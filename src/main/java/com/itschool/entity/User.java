@@ -1,7 +1,7 @@
 package com.itschool.entity;
 
 public class User {
-    // 필드
+    // 필드.
     private int id;
     private String name;
     private String phoneNumber;
